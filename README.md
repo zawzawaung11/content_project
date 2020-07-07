@@ -14,6 +14,6 @@
 <img src="https://tufaceous-shifts.000webhostapp.com/img/content_manage_2.png" />
 
 <br>
-<img src="https://tufaceous-shifts.000webhostapp.com/img/content_manage_2.png" />
+<img src="https://tufaceous-shifts.000webhostapp.com/img/content_manage_3.png" />
 
 
